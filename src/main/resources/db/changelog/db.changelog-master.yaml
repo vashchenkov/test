@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: classpath*:/db/changelog/shangesets/2021-05-15-users-table.xml
